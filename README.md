@@ -16,11 +16,6 @@
 
 6. [Github: worlds-best-restaurants-cli-gem](https://github.com/cjbrock/worlds-best-restaurants-cli-gem)
 
-## Classes:
-API - bring in external API here, instantiate my objects
-Listing/Category - where objects are created and stored for user display
-CLI - controller - communicates with my user
-
 ## Extras:
 **BEST VIDEOS (In My Opinion)**</br>
 [Eden Events - Beth (Part 1)](https://www.youtube.com/watch?v=KwBMwZ89Hj8&feature=emb_title)</br>
