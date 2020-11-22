@@ -1,9 +1,9 @@
 # CLI using API Walk-through (Videos)
-[CLI Data Gem Project - API Build](https://instruction.learn.co/student/video_lectures#/303)
-[Github:](https://github.com/cjbrock/complex_star_wars_build)
+[Star Wars API Build](https://instruction.learn.co/student/video_lectures#/303)</br>
+[Github: complex_star_wars_build](https://github.com/cjbrock/complex_star_wars_build)
 
-https://instruction.learn.co/student/video_lectures#/304
-https://github.com/cjbrock/cat_list_petfinder
+[PetFinder API Build](https://instruction.learn.co/student/video_lectures#/304)</br>
+[Github: cat_list_petfinder](https://github.com/cjbrock/cat_list_petfinder)
 
 https://instruction.learn.co/student/video_lectures#/373
 https://github.com/hansenjl/weather
