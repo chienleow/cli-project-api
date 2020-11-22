@@ -1,20 +1,19 @@
-# CLI using API Walk-through (Videos)
-[Star Wars API Build](https://instruction.learn.co/student/video_lectures#/303)</br>
+# CLI using API Walk-through (Videos/GitHub Repos)
+1. [Star Wars API Build](https://instruction.learn.co/student/video_lectures#/303)</br>
 [Github: complex_star_wars_build](https://github.com/cjbrock/complex_star_wars_build)
 
-[PetFinder API Build](https://instruction.learn.co/student/video_lectures#/304)</br>
+2. [PetFinder API Build](https://instruction.learn.co/student/video_lectures#/304)</br>
 [Github: cat_list_petfinder](https://github.com/cjbrock/cat_list_petfinder)
 
-https://instruction.learn.co/student/video_lectures#/373
-https://github.com/hansenjl/weather
+3. [Weather API Build](https://instruction.learn.co/student/video_lectures#/373)</br>
+[Github: weather](https://github.com/hansenjl/weather)
 
-https://github.com/Gingertonic/london-spas-cli
+4. [Starships API Build](https://www.youtube.com/watch?v=jxZ4a-3UoEM)
+[Github: Starships-CLI](https://github.com/aisayo/Starships-CLI)
 
-https://github.com/cjbrock/worlds-best-restaurants-cli-gem
+5. [Github: london-spas-cli](https://github.com/Gingertonic/london-spas-cli)
 
-Building a CLI with API (Aysan)
-https://github.com/aisayo/Starships-CLI
-- Aysan explained what each class does perfectly
+6. [Github: worlds-best-restaurants-cli-gem](https://github.com/cjbrock/worlds-best-restaurants-cli-gem)
 
 ## Classes:
 API - bring in external API here, instantiate my objects
